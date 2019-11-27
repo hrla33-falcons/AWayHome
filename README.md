@@ -1,6 +1,6 @@
 # AWayHome
 
-> Project description
+> A HomeAway clone--the listing page.
 
 ## Related Projects
 
