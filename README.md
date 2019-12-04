@@ -4,7 +4,7 @@
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
+  - https://github.com/hrla33-falcons/awayhome-amenities
   - https://github.com/teamName/repo
   - https://github.com/teamName/repo
   - https://github.com/teamName/repo
