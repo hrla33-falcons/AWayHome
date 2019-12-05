@@ -5,7 +5,7 @@
 ## Related Projects
 
   - https://github.com/hrla33-falcons/awayhome-amenities
-  - https://github.com/teamName/repo
+  - https://github.com/hrla33-falcons/carousel-recommend-listings
   - https://github.com/teamName/repo
   - https://github.com/teamName/repo
 
