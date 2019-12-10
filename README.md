@@ -7,7 +7,7 @@
   - https://github.com/hrla33-falcons/awayhome-amenities
   - https://github.com/hrla33-falcons/carousel-recommend-listings
   - https://github.com/hrla33-falcons/Reviews
-  - https://github.com/hrla33-falcons/search-form-booking-tool
+  - https://github.com/hrla33-falcons/search-bar-booking-tool
 
 ## Table of Contents
 
